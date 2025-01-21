@@ -1,4 +1,3 @@
-# B-I-16-17-18
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -141,6 +140,26 @@
                     </pre>
                 </div>
             </li>
+             <li>VẬN DỤNG 1: Tìm hiểu thêm các dạng pseudo-class khác, nêu ý nghĩa và tìm ví dụ ứng dụng thực tế cho các kiểu </li>
+            <div class="highlight">
+                <p><strong>Trả lời:</strong></p>
+                <ul>
+                    <li>- :hover - Dạng pseudo-class này được kích hoạt khi người dùng di chuột qua một phần tử. Nó cho phép em áp dụng các định dạng CSS khi phần tử đang được hover.</li>
+                    <li>- :active - Dạng pseudo-class này được kích hoạt khi phần tử đang được nhấn (khi người dùng giữ chuột trái). Em có thể sử dụng nó để áp dụng các định dạng CSS khi phần tử đang ở trạng thái active.</li>
+                    <li>- :focus - Dạng pseudo-class này được kích hoạt khi phần tử đang trong trạng thái focus (thường xảy ra khi người dùng click hoặc sử dụng phím tab để di chuyển đến phần tử). em có thể sử dụng nó để áp dụng các định dạng CSS khi phần tử đang trong trạng thái focus.</li>
+                    <li>- :nth-child() - Dạng pseudo-class này cho phép bạn chọn các phần tử con trong một phần tử cha dựa trên vị trí của chúng. Bạn có thể sử dụng nó để áp dụng các định dạng CSS cho phần tử con cụ thể.</li>
+                </ul>
+            </div>
+             <li>VẬN DỤNG 2:Tìm hiểu thêm các dạng pseuso-element khác, nêu ý nghĩa và tìm ví dụ ứng dụng thực tế cho các kiểu bộ chọn này. </li>
+            <div class="highlight">
+                <p><strong>Trả lời:</strong></p>
+                <ul>
+                    <li>- :before - Dạng pseudo-element này cho phép bạn chèn nội dung vào phần tử trước nội dung chính của nó. Em có thể sử dụng nó để thêm các biểu tượng, ký hiệu hoặc phần tử trang trí trước một phần tử.</li>                   
+                    <li>- :after - Dạng pseudo-element này cho phép bạn chèn nội dung vào phần tử sau nội dung chính của nó. Em có thể sử dụng nó để thêm các phần tử trang trí hoặc hiệu ứng sau một phần tử.</li>
+                    <li>- :first-line - Dạng pseudo-element này cho phép bạn áp dụng các định dạng CSS cho dòng đầu tiên của một phần tử chứa nội dung văn bản. Em có thể sử dụng nó để thay đổi kiểu chữ, khoảng cách dòng, hoặc các thuộc tính khác cho dòng đầu tiên.</li>
+                   
+                </ul>
+            </div>
         </ol>
 
         <!-- Bài 18 -->
