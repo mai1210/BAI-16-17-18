@@ -171,6 +171,11 @@
             <li><strong>VẬN DỤNG:</strong> 
                 <a href="https://tutranthanh.github.io/foodshopnhom2/" target="_blank">Bài VẬN DỤNG</a>
             </li>
+        <li><strong>LINK CANVA</strong> 
+                <a href="https://www.canva.com/design/DAGWUroCPRw/ZP-bIm_3tR4j89o0AFxTkA/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0" target="_blank">bài 7-18</a>
+                <a href="https://www.canva.com/design/DAGen1p2SSY/odf7qeoDX8sjDxZmK_zKfg/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0" target="_blank">CHỦ ĐỀ 5</a>
+                <a href="https://www.canva.com/design/DAGgYNGcQCs/G_SxEV21zsyOIbEBEsTctA/edit</a>" target="_blank">BÀI 22</a>
+            </li>
         </ol>
     </div>
 </body>
